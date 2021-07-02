@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #ff00ea, #ffff00);
+    color: purple;
+}
+
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+
+
+.line {
+    height: 6px;
+    background-color: aqua;
+    width: 340px;
+    margin: 8px auto;
+}
+
+
+marquee {
+    font-size: 42px;
+    font-family: 'Big Shoulders Display', cursive;
+    color: darkturquoise;
+    font-weight: bold;
+    text-align: left;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.environment_li {
+    margin-top:13px;
+}
+
